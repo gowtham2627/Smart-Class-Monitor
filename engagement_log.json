@@ -1,0 +1,97 @@
+[
+    {
+        "timestamp": "2025-06-14 15:54:09",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-06-20 17:52:43",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-06-26 13:24:11",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-06 10:35:05",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-06 10:36:00",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-06 10:40:11",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-06 11:07:00",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-06 11:07:15",
+        "event": "hand_raise",
+        "student": "USER8"
+    },
+    {
+        "timestamp": "2025-07-09 22:24:16",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-10 10:44:43",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-10 10:45:00",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-10 10:56:56",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-11 21:00:39",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-11 21:15:41",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-11 22:51:35",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-11 23:53:46",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-12 13:34:24",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-12 14:13:22",
+        "event": "hand_raise",
+        "student": "USER6"
+    },
+    {
+        "timestamp": "2025-07-12 14:14:43",
+        "event": "hand_raise",
+        "student": "USER6"
+    }
+]

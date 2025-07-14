@@ -1,0 +1,12 @@
+📋 **Class Session Summary**
+🕒 Date: 2025-07-10 14:31:24
+
+✅ Attendance:
+- USER6
+
+😊 Emotions Detected:
+- UNKNOWN: Disgust (1)
+- USER7: Disgust (1)
+
+🙋 Engagement (Hand Raises):
+- USER6: 3 time(s)

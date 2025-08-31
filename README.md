@@ -20,7 +20,8 @@ Built using Python, Streamlit, Face Recognition, OpenCV, and a pretrained FER mo
 📄 emotion_hand_combined.py    → Emotion detection + hand raise detection using webcam
 📄 generate_summary.py       → Creates daily summary report
 📄 requirements.txt          → All required packages
-🔧 Installation Instructions (for rookies)
+📄 dlib-19.22.99-cp310-cp310-win_amd64.whl          → dlib file
+🔧 Installation Instructions
 Follow this step-by-step 🪜:
 
 ✅ Step 1: Clone the Repo
@@ -35,7 +36,7 @@ On Linux/Mac:
 source .venv/bin/activate
 ✅ Step 4: Install Dependencies
 pip install -r requirements.txt
-🛠️ Dlib Installation Troubleshooting
+🛠 Dlib Installation Troubleshooting
 dlib is required for face recognition. It might fail if build tools are missing.
 
 🧱 Install CMake & Build Tools (Only Once)
@@ -51,7 +52,7 @@ Then install dlib manually:
 
 pip install cmake
 pip install dlib
-If still not working, use the prebuilt .whl file from: 👉 https://www.lfd.uci.edu/~gohlke/pythonlibs/#dlib
+If still not working, use the prebuilt .whl file from the uploaded files.
 
 Download the one matching your Python version (e.g., dlib‑19.22.99‑cp311‑cp311‑win_amd64.whl), then:
 
@@ -71,7 +72,7 @@ Logs engagement to engagement_log.json
 📋 Summary Generator (generate_summary.py)
 Combines attendance, emotion, and hand raise logs
 Generates daily summary in Summaries/YYYY-MM-DD.txt
-🖥️ Launch the Streamlit UI
+🖥 Launch the Streamlit UI
 streamlit run streamlit_app.py
 You’ll get UI buttons to:
 
@@ -107,23 +108,6 @@ python mark_attendance.py
 python emotion_folder_scan.py
 python hand_raise_detect.py
 python generate_summary.py
-🚫 What NOT to Upload
-Be sure to exclude these:
-
-.venv/
-__pycache__/
-.vscode/ or .idea/
-*.pyc
-Large image datasets
-.DS_Store (macOS)
-Use this .gitignore:
-
-.venv/
-__pycache__/
-*.pyc
-*.log
-.DS_Store
-*.jpg
 📬 Credits
 Project Title: Smart Class Monitor
 Duration: May 25 – July 10
@@ -132,4 +116,3 @@ Tools Used: Python, Streamlit, OpenCV, MediaPipe, TensorFlow, Keras, Face Recogn
 
 🙌 Feedback / Issues
 Feel free to create an issue if you face any problem or want to suggest improvements.
-

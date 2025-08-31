@@ -1,8 +1,8 @@
-📸 Smart Class Monitor
+📸 Smart Class Monitor 
 
-An AI-powered classroom monitoring system that automates:
+An AI-powered classroom monitoring system that automates: 
 
-- 🎯 Face Recognition-Based Attendance
+- 🎯 Face Recognition-Based Attendance 
 - 😊 Emotion Detection
 - 🙋 Hand Raise Engagement Tracking
 - 📋 Daily Class Summary Generation
@@ -67,7 +67,7 @@ pip install dlib
 If still not working, use the prebuilt .whl file from:
 👉 https://www.lfd.uci.edu/~gohlke/pythonlibs/#dlib
 
-Download the one matching your Python version (e.g., dlib‑19.22.99‑cp311‑cp311‑win_amd64.whl), then:
+Download the one matching your Python version (e.g., dlib-19.22.99-cp311-cp311-win_amd64.whl), then:
 
 pip install path_to_downloaded_whl
 🧠 How It Works
@@ -129,8 +129,9 @@ python generate_summary.py
 Project Title: Smart Class Monitor  
 Duration: May 25 – July 11  
 Developer: E Gowtham,Abhinay   
-Tools Used: Python, Streamlit, OpenCV, MediaPipe, TensorFlow, Keras, Face Recognition. 
+Tools Used: Python, Streamlit, OpenCV, MediaPipe, TensorFlow, Keras, Face Recognition.  
 
 🙌 Feedback / Issues
-Feel free to create an issue if you face any problem or want to suggest improvements.
+Feel free to create an issue if you face any problem or want to suggest improvements.  
+
 
